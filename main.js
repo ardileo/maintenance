@@ -1,6 +1,6 @@
 function load() {
+    // ini aksi na
     carilawan();
-    alert('ni')
 }
 
 function carilawan() {
