@@ -1,5 +1,5 @@
 function load() {
-    // alert('ni')
+    // ini aksi na
     carilawan();
 }
 
