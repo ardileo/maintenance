@@ -1,6 +1,6 @@
 function load() {
-    // alert('ni')
     carilawan();
+    alert('ni')
 }
 
 function carilawan() {
