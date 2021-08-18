@@ -1,3 +1,4 @@
+// versi terbaru
 function load() {
     // ini aksi na
     carilawan();
